@@ -25,7 +25,7 @@ All Modules in the Manager and Settings Tab are sorted by their displayed name!
 -- currently supports the dnd5e Game System --
 
 ## Installation
-See https://github.com/foundry-vtt-community/wiki/wiki/Modules#installing-modules. Open the Add-on Modules tab in the Configuration and Setup dialog. Click Install Module, paste https://raw.githubusercontent.com/sdenec/tidy-ui_game-settings/master/module.json in as the Manifest URL, then click Install.
+See https://github.com/foundry-vtt-community/wiki/wiki/Modules#installing-modules. Open the Add-on Modules tab in the Configuration and Setup dialog. Click Install Module, paste https://raw.githubusercontent.com/ace-archer/tidy-ui_game-settings/master/module.json in as the Manifest URL, then click Install.
 
 ## Preview
 ![Sidebar](/preview/sidebar.jpg)
