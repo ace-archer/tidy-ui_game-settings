@@ -1,5 +1,10 @@
-# Tidy UI - Game Settings
+# Tidy UI - Game Settings 
+v0.1.33 for FoundryVTT v9
+
 **formerly FVTT UII - Game Settings**
+
+***THIS FORK IS SOLEY TO ALLOW FOR THIS TO BE INSTALLED ON FOUNDRY VTT v9 INSTANCES, AND UNLESS YOU NEED TO USE FOUNDRY VTT v9, SHOULDN'T BE USED***
+
 
 A module to make the game settings menu a bit more comfortale to use.
 A stand alone module from the upcoming Tidy UI suite module.
